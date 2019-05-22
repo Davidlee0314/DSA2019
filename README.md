@@ -3,7 +3,6 @@
 These are homeworks and excercises in class.
 
 ## Each homework instruction
----------
 ### hw1
 #### Problem definition
 Given a sequence of integers, your program should identify the K-th smallest number in a running window of M integers.
@@ -126,4 +125,3 @@ The next 𝑁 lines contain 𝑀 characters each, which represents the graph pap
 #### Output Format
 
 - Print the number of ways to tear the graph paper modulo 109+7.
----
