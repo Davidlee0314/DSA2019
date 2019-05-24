@@ -2,6 +2,13 @@
 
 These are homeworks and excercises in class.
 
+## Link
+- [hw1](#hw1)
+- [hw2](#hw2)
+- [hw3](#hw3)
+- [hw4](#hw4)
+- [hw5](#hw5)
+
 ## Each homework instruction
 ### hw1
 #### Problem definition
