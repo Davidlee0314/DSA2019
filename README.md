@@ -8,6 +8,17 @@ These are homeworks and excercises in class.
 - [hw3](#hw3)
 - [hw4](#hw4)
 - [hw5](#hw5)
+- [practice 1](https://tioj.ck.tp.edu.tw/problems/1211)
+- [practice 2](https://tioj.ck.tp.edu.tw/problems/2010)
+- [practice 3](https://tioj.ck.tp.edu.tw/problems/1768)
+- [practice 4](https://tioj.ck.tp.edu.tw/problems/1344)
+- [practice 5](https://tioj.ck.tp.edu.tw/problems/2058)
+- [practice 6](https://tioj.ck.tp.edu.tw/problems/2048)
+- [practice 7](https://codeforces.com/problemset/problem/1137/B)
+- [practice 8](https://codeforces.com/contest/615/problem/C)
+- [practice 9](https://codeforces.com/problemset/problem/743/D)
+- [practice 10](https://codeforces.com/problemset/problem/545/E)
+- [practice 11](https://tioj.ck.tp.edu.tw/problems/1914)
 
 ## Each homework instruction
 ### hw1
